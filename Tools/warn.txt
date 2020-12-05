@@ -1,0 +1,1 @@
+Do not have Non-English folder path, otherwise the premaker would not find the premake.lua file.
